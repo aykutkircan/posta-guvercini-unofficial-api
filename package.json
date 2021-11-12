@@ -2,14 +2,20 @@
   "name": "posta-guvercini-unofficial",
   "version": "1.0.0",
   "description": "Posta Guvercini Sms servisi Basit Arakatmanı",
+  "type": "module",
+  "engines": {
+    "node": ">=16.13.0",
+    "npm": ">=8.1.0"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "keywords": [
     "posta-guvercini",
-    "sms"
+    "sms",
+    "send sms",
+    "send multi otp"
   ],
   "author": {
     "name": "Aykut Kırcan",
@@ -19,8 +25,8 @@
   "contributors": [
     {
       "name": "Adem Koç",
-      "email": "adem.koc@kns.com.tr",
-      "github": "https://github.com/Atakannbal"
+      "email": "koc.adem.809@gmail.com",
+      "github": "https://github.com/ademkoc"
     },
     {
       "name": "Atakan Bal",
@@ -33,7 +39,8 @@
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.1"
+    "eslint-plugin-promise": "^5.1.1",
+    "eslint-plugin-unicorn": "^38.0.1"
   },
   "dependencies": {
     "joi": "^17.4.2"
