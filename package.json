@@ -15,7 +15,8 @@
     "posta-guvercini",
     "sms",
     "send sms",
-    "send multi otp"
+    "send otp sms",
+    "send multi sms"
   ],
   "author": {
     "name": "Aykut Kırcan",

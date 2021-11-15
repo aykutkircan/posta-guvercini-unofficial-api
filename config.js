@@ -1,4 +1,4 @@
 export default {
-  baseUrl: 'base_url',
-  otpBaseUrl: 'otp_base_url'
+  baseUrl: 'http://www.postaguvercini.com/api_http',
+  otpBaseUrl: 'http://otpsms.postaguvercini.com/api_http'
 }
