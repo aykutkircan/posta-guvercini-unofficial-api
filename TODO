@@ -1,2 +1,3 @@
 
--option validation daha detaylı bir joi validasyonu yapılabilir.
+- option validation daha detaylı bir joi validasyonu yapılabilir.
+- jsdoc-to-markdown bu npm paketi deneyeibliriz.
