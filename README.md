@@ -12,7 +12,7 @@ $ npm i posta-guvercini-unofficial-api
 ``` js
 
 // import
-import { PostaGuvercini } from './lib/posta-guvercini.js'
+import PostaGuvercini from 'posta-guvercini-unofficial-api'
 
 
 // options
