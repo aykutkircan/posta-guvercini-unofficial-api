@@ -1,1 +1,1 @@
-export { PostaGuvercini } from './lib/posta-guvercini'
+export { default } from './lib/posta-guvercini.js'
