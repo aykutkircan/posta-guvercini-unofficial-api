@@ -45,6 +45,13 @@ const multipleParameters = {
 * `text` text message to be send.
 
 
+## Functions
+- There are three main functions in this version.
+
+* `sendSimpleSms`
+* `sendOtpSms`
+* `sendBulkSms`
+
 ## Example
 
 ``` js
