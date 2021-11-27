@@ -1,6 +1,6 @@
 {
-  "name": "posta-guvercini-unofficial",
-  "version": "1.0.0",
+  "name": "posta-guvercini-unofficial-api",
+  "version": "0.1.0",
   "description": "Posta Guvercini Sms servisi Basit Arakatmanı",
   "type": "module",
   "engines": {
@@ -16,7 +16,7 @@
     "sms",
     "send sms",
     "send otp sms",
-    "send multi sms"
+    "send multiple sms"
   ],
   "author": {
     "name": "Aykut Kırcan",
