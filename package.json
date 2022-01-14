@@ -18,6 +18,10 @@
     "send otp sms",
     "send multiple sms"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkircan/posta-guvercini-unofficial-api"
+  },
   "author": {
     "name": "Aykut Kırcan",
     "email": "aykutkircan@icloud.com",
